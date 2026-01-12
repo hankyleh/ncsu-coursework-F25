@@ -1,2 +1,2 @@
 # ncsu-coursework
-Coursework/projects for my NE coursework at NCSU 2025-
+Coursework/projects for my NE coursework at NCSU, Fall 2025
